@@ -1,5 +1,5 @@
 ## 👋 Hi, I’m @Khushijain30
-##  🎓 I recently graduated from Cardiff University with a degree in Computer Science.
+##  🎓 I recently graduated from Cardiff University with a degree in Computer Science and Informatics.
   Throughout my academic journey, I have developed a passion for programming and software development.
 ## 👀 I’m interested in: 
 - Building applications using **Python**, **Java**, **C++**, **HTML**, and **CSS**.
