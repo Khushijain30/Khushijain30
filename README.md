@@ -13,7 +13,7 @@
 - Exciting projects that involve innovative solutions to real-world problems.
 - Open-source contributions where I can learn and share knowledge with others.
 ## 📫 How to reach me 
-Feel free to connect with me on [LinkedIn]((https://www.linkedin.com/in/khushi-jain-5a3b71143/)) or email me at [workkhushijain@gmail.com]
+Feel free to connect with me on [LinkedIn] (https://www.linkedin.com/in/khushi-jain-5a3b71143/) or email me at [workkhushijain@gmail.com]
 
 ## 😄 Pronouns: She/Her
 ## ⚡ Fun fact: I love solving puzzles and challenges, especially coding challenges on platforms like LeetCode and HackerRank!
